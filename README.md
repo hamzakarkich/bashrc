@@ -1,7 +1,7 @@
 # PS1
 Customizing the Shell Prompt (PS1) transforms the command-line interface. Users edit the PS1 variable in their shell config, adjusting elements like username, hostname, and directory, often adding colors. This enhances both functionality and aesthetics for efficient and personalized shell interactions.
 
-![PS1](https://github.com/hamzakarkich/PS1/blob/main/Screenshot%202024-02-08%20155831.jpg)
+![PS1](https://github.com/hamzakarkich/bashrc/blob/main/img/Screenshot%202024-02-14%20145057.jpg)
 
 To change the PS1 prompt in Bash, you need to modify the PS1 variable in your shell configuration file. Typically, this file is either `~/.bashrc` or `~/.bash_profile`. Here's a step-by-step guide:
 
